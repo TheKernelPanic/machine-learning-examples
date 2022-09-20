@@ -1,0 +1,5 @@
+/**/venv
+/**/models/*.mod
+/**/jupyter/.ipynb_checkpoints
+.DS_Store
+/.idea/
