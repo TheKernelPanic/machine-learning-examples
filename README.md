@@ -25,9 +25,9 @@ source .environment/bin/activate
 python -m ipykernel install --user --name=venv
 ```
 
-### Run jupiter
+### Run jupyter
 ```bash
-notebook jupiter
+notebook jupyter
 ```
 
 ### Dependencies
