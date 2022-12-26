@@ -31,4 +31,4 @@ notebook jupyter
 ```
 
 ### Dependencies
-python -m pip install jupyter matplotlib numpy pandas scipy scikit-learn seaborn
+python -m pip install jupyter matplotlib numpy pandas scipy scikit-learn seaborn corpus
