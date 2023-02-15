@@ -26,9 +26,12 @@ python -m ipykernel install --user --name=venv
 ```
 
 ### Run jupyter
+
 ```bash
 notebook jupyter
 ```
 
 ### Dependencies
+```
 python -m pip install jupyter matplotlib numpy pandas scipy scikit-learn seaborn corpus
+```

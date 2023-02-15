@@ -3,3 +3,5 @@
 /**/jupyter/.ipynb_checkpoints
 .DS_Store
 /.idea/
+/fruits/datasets/*.csv
+/fruits/models/*.joblib
